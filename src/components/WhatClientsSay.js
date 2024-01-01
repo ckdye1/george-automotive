@@ -136,8 +136,7 @@ const WhatClientsSay = () => {
                             <div className="elementor-widget-container">
                                 <img loading="lazy" decoding="async" width="2000" height="1333"
                                      src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/happy-men-in-auto-repair-service.jpg"
-                                     className="attachment-full size-full wp-image-27" alt=""
-                                     srcSet="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/happy-men-in-auto-repair-service.jpg 2000w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/happy-men-in-auto-repair-service-300x200.jpg 300w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/happy-men-in-auto-repair-service-1024x682.jpg 1024w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/happy-men-in-auto-repair-service-768x512.jpg 768w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/happy-men-in-auto-repair-service-1536x1024.jpg 1536w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/happy-men-in-auto-repair-service-800x533.jpg 800w"
+                                     className="size-full wp-image-27" alt=""
                                      sizes="(max-width: 2000px) 100vw, 2000px"/></div>
                         </div>
                     </div>

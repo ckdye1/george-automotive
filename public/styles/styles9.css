@@ -6398,25 +6398,6 @@ a:hover > .a:hover\:met_scaley--200:hover {
     margin-bottom: 0
 }
 
-.ekit-wid-con .dialog-type-lightbox .dialog-widget-content {
-    width: 100%
-}
-
-.ekit-wid-con .nf-form-content .listselect-wrap .nf-field-element div, .ekit-wid-con .nf-form-content input.ninja-forms-field, .ekit-wid-con .nf-form-content select.ninja-forms-field:not([multiple]) {
-    height: 100%
-}
-
-.ekit-wid-con .nf-form-content .list-select-wrap > div div::after {
-    height: 100%;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    line-height: normal
-}
-
 .ekit-wid-con .nf-error.field-wrap .nf-field-element::after, .ekit-wid-con .nf-pass.field-wrap .nf-field-element::after {
     top: 0;
     height: 100%;
@@ -6432,24 +6413,12 @@ a:hover > .a:hover\:met_scaley--200:hover {
     line-height: normal
 }
 
-.ekit-wid-con .nf-form-content button, .ekit-wid-con .nf-form-content input[type=button], .ekit-wid-con .nf-form-content input[type=submit] {
-    cursor: pointer
-}
-
 .ekit-wid-con .nf-response-msg > p {
     line-height: normal
 }
 
 .ekit-wid-con textarea.ninja-forms-field {
     display: block
-}
-
-.ekit-wid-con .nf-form-content .list-select-wrap > div div {
-    border: none
-}
-
-.ekit-wid-con .nf-form-content .list-select-wrap > div select {
-    border: 1px solid #c4c4c4
 }
 
 .ekit-wid-con .column-count-1 {

@@ -1,71 +1,7 @@
+import '../styles/WhatWeOffer.css'
 import React from "react";
 
 const WhatWeOffer = () => {
-
-    const style2 = `
-        /*! elementor - v3.15.0 - 09-08-2023 */
-        .elementor-widget-image-box .elementor-image-box-content {
-            width: 100%
-        }
-
-        @media (min-width: 768px) {
-            .elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper, .elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper {
-            display: flex
-        }
-
-            .elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper {
-            text-align: right;
-            flex-direction: row-reverse
-        }
-
-            .elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper {
-            text-align: left;
-            flex-direction: row
-        }
-
-            .elementor-widget-image-box.elementor-position-top .elementor-image-box-img {
-            margin: auto
-        }
-
-            .elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper {
-            align-items: flex-start
-        }
-
-            .elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper {
-            align-items: center
-        }
-
-            .elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper {
-            align-items: flex-end
-        }
-        }
-
-        @media (max-width: 767px) {
-            .elementor-widget-image-box .elementor-image-box-img {
-            margin-left: auto !important;
-            margin-right: auto !important;
-            margin-bottom: 15px
-        }
-        }
-
-        .elementor-widget-image-box .elementor-image-box-img {
-            display: inline-block
-        }
-
-        .elementor-widget-image-box .elementor-image-box-title a {
-            color: inherit
-        }
-
-        .elementor-widget-image-box .elementor-image-box-wrapper {
-            text - align: center
-        }
-
-        .elementor-widget-image-box
-        .elementor-image-box-description {
-            margin: 0
-        }
-`;
-
     return (
         <section
             className="elementor-section elementor-element elementor-element-6bd318ca elementor-section-boxed">
@@ -119,16 +55,14 @@ const WhatWeOffer = () => {
                                         <div
                                             className="elementor-element elementor-element-61295c1e elementor-position-top elementor-widget elementor-widget-image-box">
                                             <div className="elementor-widget-container">
-                                                <style>{style2}</style>
                                                 <div className="elementor-image-box-wrapper">
                                                     <figure className="elementor-image-box-img">
                                                         <img loading="lazy"
                                                              decoding="async"
                                                              width="1335" height="2000"
                                                              src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/checking-motor-in-car-service.jpg"
-                                                             className="elementor-animation-grow attachment-full size-full wp-image-23"
+                                                             className="size-full wp-image-23"
                                                              alt=""
-                                                             srcSet="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/checking-motor-in-car-service.jpg 1335w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/checking-motor-in-car-service-200x300.jpg 200w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/checking-motor-in-car-service-684x1024.jpg 684w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/checking-motor-in-car-service-768x1151.jpg 768w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/checking-motor-in-car-service-1025x1536.jpg 1025w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/checking-motor-in-car-service-800x1199.jpg 800w"
                                                              sizes="(max-width: 1335px) 100vw, 1335px"/>
                                                     </figure>
                                                     <div className="elementor-image-box-content">
@@ -151,9 +85,8 @@ const WhatWeOffer = () => {
                                                         decoding="async"
                                                         width="1335" height="2000"
                                                         src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/service-worker-pouring-engine-oil.jpg"
-                                                        className="elementor-animation-grow attachment-full size-full wp-image-24"
+                                                        className="size-full wp-image-24"
                                                         alt=""
-                                                        srcSet="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/service-worker-pouring-engine-oil.jpg 1335w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/service-worker-pouring-engine-oil-200x300.jpg 200w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/service-worker-pouring-engine-oil-684x1024.jpg 684w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/service-worker-pouring-engine-oil-768x1151.jpg 768w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/service-worker-pouring-engine-oil-1025x1536.jpg 1025w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/service-worker-pouring-engine-oil-800x1199.jpg 800w"
                                                         sizes="(max-width: 1335px) 100vw, 1335px"/>
                                                     </figure>
                                                     <div className="elementor-image-box-content">
@@ -176,7 +109,7 @@ const WhatWeOffer = () => {
                                                         decoding="async"
                                                         width="1335" height="2000"
                                                         src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/car-maintenance-in-garage.jpg"
-                                                        className="elementor-animation-grow attachment-full size-full wp-image-22"
+                                                        className="size-full wp-image-22"
                                                         alt=""
                                                         sizes="(max-width: 1335px) 100vw, 1335px"/>
                                                     </figure>
@@ -201,7 +134,7 @@ const WhatWeOffer = () => {
                                                         decoding="async"
                                                         width="1334" height="2000"
                                                         src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/mechanic-at-work.jpg"
-                                                        className="elementor-animation-grow attachment-full size-full wp-image-25"
+                                                        className="size-full wp-image-25"
                                                         alt=""
                                                         sizes="(max-width: 1334px) 100vw, 1334px"/>
                                                     </figure>

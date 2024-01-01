@@ -102,14 +102,14 @@
     line-height: 1.9em;
 }
 
-.elementor-kit-6 input:not([type="button"]):not([type="submit"]), .elementor-kit-6 textarea, .elementor-kit-6 .elementor-field-textual {
+.elementor-kit-6 input:not([type="button"]):not([type="submit"]) {
     color: #202020;
     background-color: #D6D6D6;
     border-style: solid;
     border-width: 0 0 0 0;
 }
 
-.elementor-kit-6 input:focus:not([type="button"]):not([type="submit"]), .elementor-kit-6 textarea:focus, .elementor-kit-6 .elementor-field-textual:focus {
+.elementor-kit-6 input:focus:not([type="button"]):not([type="submit"]) {
     background-color: #FFFFFF;
 }
 
