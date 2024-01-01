@@ -15,14 +15,6 @@
     line-height: 0;
 }
 
-.swiper-container .elementor-lightbox-content-source {
-    display: none;
-}
-
-.swiper-container-no-flexbox .swiper-slide {
-    float: left;
-}
-
 .swiper-container-vertical > .swiper-wrapper {
     flex-direction: column;
 }

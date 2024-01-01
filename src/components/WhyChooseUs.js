@@ -129,9 +129,8 @@ const WhyChooseUs = () => {
 
     return (
         <section
-            className="elementor-section elementor-element elementor-element-43f97b2e elementor-section-content-middle elementor-section-boxed"
-            data-id="43f97b2e" data-element_type="section"
-            data-settings="{&quot;shape_divider_bottom&quot;:&quot;tilt&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+            className="elementor-section elementor-element elementor-element-43f97b2e elementor-section-content-middle elementor-section-boxed">
+            <style>{style3}</style>
             <div className="elementor-background-overlay"></div>
             <div className="elementor-shape elementor-shape-bottom" data-negative="false">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
@@ -158,7 +157,6 @@ const WhyChooseUs = () => {
                             data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
                             data-widget_type="blockquote.default">
                             <div className="elementor-widget-container">
-                                <style>{style3}</style>
                                 <blockquote className="elementor-blockquote">
                                     <p className="elementor-blockquote__content">
                                         Experienced Since </p>

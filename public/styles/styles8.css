@@ -6,7 +6,7 @@
     justify-content: flex-start;
 }
 
-.elementor-14 .elementor-element.elementor-element-413bd935:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-14 .elementor-element.elementor-element-413bd935 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+.elementor-14 .elementor-element.elementor-element-413bd935:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap {
     background-color: #333533;
 }
 
@@ -70,7 +70,7 @@ body:not(.rtl) .elementor-14 .elementor-element.elementor-element-73979b34 .elem
     transition: color 0.3s;
 }
 
-.elementor-14 .elementor-element.elementor-element-2f2d3df2:not(.elementor-motion-effects-element-type-background), .elementor-14 .elementor-element.elementor-element-2f2d3df2 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+.elementor-14 .elementor-element.elementor-element-2f2d3df2:not(.elementor-motion-effects-element-type-background) {
     background-color: #000000;
 }
 
@@ -209,7 +209,7 @@ body:not(.rtl) .elementor-14 .elementor-element.elementor-element-73979b34 .elem
     fill: #F77F00;
 }
 
-.elementor-14 .elementor-element.elementor-element-19514636:not(.elementor-motion-effects-element-type-background), .elementor-14 .elementor-element.elementor-element-19514636 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+.elementor-14 .elementor-element.elementor-element-19514636:not(.elementor-motion-effects-element-type-background) {
     background-color: #000000;
 }
 

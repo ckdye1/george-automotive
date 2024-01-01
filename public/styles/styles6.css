@@ -2,7 +2,7 @@
     min-height: 125vh;
 }
 
-.elementor-17 .elementor-element.elementor-element-5c7d55cf:not(.elementor-motion-effects-element-type-background), .elementor-17 .elementor-element.elementor-element-5c7d55cf > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+.elementor-17 .elementor-element.elementor-element-5c7d55cf:not(.elementor-motion-effects-element-type-background) {
     background-image: url("https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/auto-mechanic-working-in-garage-repair-service.jpg");
     background-position: top center;
     background-repeat: no-repeat;
@@ -66,7 +66,7 @@
     align-items: center;
 }
 
-.elementor-17 .elementor-element.elementor-element-78de8a8e:not(.elementor-motion-effects-element-type-background), .elementor-17 .elementor-element.elementor-element-78de8a8e > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+.elementor-17 .elementor-element.elementor-element-78de8a8e:not(.elementor-motion-effects-element-type-background) {
     background-color: #202020;
 }
 
@@ -182,7 +182,7 @@
     height: 250px;
 }
 
-.elementor-17 .elementor-element.elementor-element-26c8bfb1:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-17 .elementor-element.elementor-element-26c8bfb1 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+.elementor-17 .elementor-element.elementor-element-26c8bfb1:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap {
     background-color: #FFFFFF;
 }
 
@@ -407,7 +407,7 @@
     align-items: center;
 }
 
-.elementor-17 .elementor-element.elementor-element-43f97b2e:not(.elementor-motion-effects-element-type-background), .elementor-17 .elementor-element.elementor-element-43f97b2e > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+.elementor-17 .elementor-element.elementor-element-43f97b2e:not(.elementor-motion-effects-element-type-background) {
     background-color: #202020;
     background-image: url("https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/at-the-auto-service.jpg");
 }
@@ -724,7 +724,7 @@ body.rtl .elementor-17 .elementor-element.elementor-element-632f2b97 {
     justify-content: flex-end;
 }
 
-.elementor-17 .elementor-element.elementor-element-28069df0:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-17 .elementor-element.elementor-element-28069df0 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+.elementor-17 .elementor-element.elementor-element-28069df0:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap {
     background-color: #FFFFFF;
 }
 
@@ -1033,7 +1033,7 @@ body.rtl .elementor-17 .elementor-element.elementor-element-36ac326b.elementor-t
     --container-widget-flex-grow: 0;
 }
 
-.elementor-17 .elementor-element.elementor-element-49595d41:not(.elementor-motion-effects-element-type-background), .elementor-17 .elementor-element.elementor-element-49595d41 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+.elementor-17 .elementor-element.elementor-element-49595d41:not(.elementor-motion-effects-element-type-background) {
     background-color: #202020;
 }
 
