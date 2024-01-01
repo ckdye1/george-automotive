@@ -1,0 +1,8 @@
+.navbar[data-bs-theme="dark"] {
+    z-index: 1;
+    background: #000000;
+}
+
+.nav-link {
+    color: #FFFFFF;
+}

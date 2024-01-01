@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+img.nav-logo {
+    height: 46.09px;
+    width: auto;
+}
+
+@media (max-width: 767px) {
+    .elementor-11 .elementor-element.elementor-element-784d8c7d img {
+        width: auto;
+    }
+}
+
+.divider {
+    background: url(../divider.png) no-repeat;
+    background-size: contain;
+    height: 20px;
+    margin: 20px 0;
+    width: 100%;
+}
+
+.divider.center {
+    background-position-x: center;
+}
+
+.elementor-column {
+    flex-direction: column;
+}
