@@ -25,7 +25,6 @@ const AboutUs = () => {
                                 <img decoding="async" width="682" height="1024"
                                      src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/young-man-working-as-mechanic-repairing-car-engine-682x1024.jpg"
                                      className="attachment-large size-large wp-image-21" alt=""
-                                     srcSet="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/young-man-working-as-mechanic-repairing-car-engine-682x1024.jpg 682w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/young-man-working-as-mechanic-repairing-car-engine-200x300.jpg 200w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/young-man-working-as-mechanic-repairing-car-engine-768x1152.jpg 768w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/young-man-working-as-mechanic-repairing-car-engine-1024x1536.jpg 1024w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/young-man-working-as-mechanic-repairing-car-engine-800x1200.jpg 800w, https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/young-man-working-as-mechanic-repairing-car-engine.jpg 1333w"
                                      sizes="(max-width: 682px) 100vw, 682px"/></div>
                         </div>
                     </div>
