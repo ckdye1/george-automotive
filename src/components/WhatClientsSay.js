@@ -3,7 +3,7 @@ import React from "react";
 
 const WhatClientsSay = () => {
     return (
-        <section className="elementor-section elementor-element elementor-element-2a2cbd80 elementor-section-boxed">
+        <section id="reviews" className="elementor-section elementor-element elementor-element-2a2cbd80 elementor-section-boxed">
             <div className="elementor-background-overlay"></div>
             <div className="elementor-shape elementor-shape-top" data-negative="false">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">

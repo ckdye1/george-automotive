@@ -3,6 +3,7 @@ import React from "react";
 const AboutUs = () => {
     return (
         <section
+            id="about-us"
             className="elementor-section elementor-element elementor-element-78de8a8e elementor-section-content-middle elementor-section-boxed">
             <div className="elementor-background-overlay"></div>
             <div className="elementor-shape elementor-shape-top" data-negative="false">
