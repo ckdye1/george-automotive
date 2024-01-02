@@ -1,0 +1,78 @@
+.elementor-editor-active .elementor.elementor-edit-mode .elementor-widget.elementor-global-widget:hover {
+    outline: 1px solid var(--e-p-border-global);
+}
+
+.elementor-editor-active .elementor.elementor-edit-mode .elementor-global-widget .elementor-editor-widget-settings {
+    background-color: var(--e-p-border-global);
+}
+
+.elementor-editor-active .elementor.elementor-edit-mode .elementor-global-widget .elementor-editor-widget-settings .elementor-editor-element-setting {
+    background-color: var(--e-p-border-global);
+    color: var(--e-p-border-global-invert);
+}
+
+.elementor-editor-active .elementor.elementor-edit-mode .elementor-global-widget .elementor-editor-widget-settings .elementor-editor-element-setting:hover {
+    background-color: var(--e-p-border-global-hover);
+}
+
+.elementor-editor-active .elementor.elementor-edit-mode .elementor-global-widget .elementor-editor-widget-settings .elementor-editor-element-setting.elementor-editor-element-save {
+    display: none;
+}
+
+.elementor-theme-builder-content-area {
+    height: 400px;
+}
+
+.elementor-location-header:before,
+.elementor-location-footer:before {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.elementor-posts.elementor-posts--skin-archive_full_content article.elementor-post {
+    display: block;
+}
+
+.elementor-sticky--active {
+    z-index: 99;
+}
+
+.e-container.elementor-sticky--active,
+.e-con.elementor-sticky--active {
+    z-index: var(--z-index,
+99);
+}
+
+.e-container .e-container.elementor-sticky,
+.e-container .e-con.elementor-sticky,
+.e-con .e-container.elementor-sticky,
+.e-con .e-con.elementor-sticky {
+    /* Fix for sticky effect inside containers */
+}
+
+.e-container .e-container.elementor-sticky--active,
+.e-container .e-con.elementor-sticky--active,
+.e-con .e-container.elementor-sticky--active,
+.e-con .e-con.elementor-sticky--active {
+    padding-left: var(--padding-left);
+    padding-right: var(--padding-right);
+}
+
+[data-elementor-type=popup]:not(.elementor-edit-area) {
+    display: none;
+}
+
+[data-elementor-type=popup] .elementor-section-wrap:not(:empty) + #elementor-add-new-section {
+    display: none;
+}
+
+.elementor-motion-effects-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    transform-origin: var(--e-transform-origin-y) var(--e-transform-origin-x);
+}
