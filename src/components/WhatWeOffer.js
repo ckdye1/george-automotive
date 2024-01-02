@@ -138,9 +138,10 @@ const WhatWeOffer = () => {
                                                         alt=""
                                                         sizes="(max-width: 1334px) 100vw, 1334px"/>
                                                     </figure>
-                                                    <div className="elementor-image-box-content"><h4
-                                                        className="elementor-image-box-title">Body
-                                                        Services</h4>
+                                                    <div className="elementor-image-box-content">
+                                                        <h4 className="elementor-image-box-title">
+                                                            Routine Servicing
+                                                        </h4>
                                                     </div>
                                                 </div>
                                             </div>

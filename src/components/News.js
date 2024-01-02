@@ -32,14 +32,15 @@ const News = () => {
                                         className="elementor-post elementor-grid-item post-153 post type-post status-publish format-standard has-post-thumbnail hentry category-tips">
                                         <a className="elementor-post__thumbnail__link"
                                            href="#">
-                                            <div className="elementor-post__thumbnail"><img loading="lazy"
-                                                                                            decoding="async"
-                                                                                            width="2000"
-                                                                                            height="1335"
-                                                                                            src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/at-the-auto-service-2.jpg"
-                                                                                            className="size-full wp-image-51"
-                                                                                            alt=""
-                                                                                            sizes="(max-width: 2000px) 100vw, 2000px"/>
+                                            <div className="elementor-post__thumbnail">
+                                                <img loading="lazy"
+                                                     decoding="async"
+                                                     width="2000"
+                                                     height="1335"
+                                                     src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/at-the-auto-service-2.jpg"
+                                                     className="size-full wp-image-51"
+                                                     alt=""
+                                                     sizes="(max-width: 2000px) 100vw, 2000px"/>
                                             </div>
                                         </a>
                                         <div className="elementor-post__text">
@@ -64,14 +65,15 @@ const News = () => {
                                         className="elementor-post elementor-grid-item post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-engine">
                                         <a className="elementor-post__thumbnail__link"
                                            href="#">
-                                            <div className="elementor-post__thumbnail"><img loading="lazy"
-                                                                                            decoding="async"
-                                                                                            width="2000"
-                                                                                            height="1335"
-                                                                                            src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/at-the-auto-service-4.jpg"
-                                                                                            className="size-full wp-image-126"
-                                                                                            alt=""
-                                                                                            sizes="(max-width: 2000px) 100vw, 2000px"/>
+                                            <div className="elementor-post__thumbnail">
+                                                <img loading="lazy"
+                                                     decoding="async"
+                                                     width="2000"
+                                                     height="1335"
+                                                     src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/at-the-auto-service-4.jpg"
+                                                     className="size-full wp-image-126"
+                                                     alt=""
+                                                     sizes="(max-width: 2000px) 100vw, 2000px"/>
                                             </div>
                                         </a>
                                         <div className="elementor-post__text">
