@@ -11,7 +11,7 @@ const Hero = () => {
 `;
 
     return (
-        <section className="elementor-section elementor-element elementor-element-5c7d55cf elementor-section-items-bottom elementor-section-boxed">
+        <section id="home" className="elementor-section elementor-element elementor-element-5c7d55cf elementor-section-items-bottom elementor-section-boxed">
             <div className="elementor-background-overlay"></div>
             <div className="elementor-shape elementor-shape-bottom" data-negative="false">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">

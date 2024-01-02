@@ -4,6 +4,7 @@ import React from "react";
 const WhatWeOffer = () => {
     return (
         <section
+            id="services"
             className="elementor-section elementor-element elementor-element-6bd318ca elementor-section-boxed">
             <div className="elementor-shape elementor-shape-top" data-negative="false">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
