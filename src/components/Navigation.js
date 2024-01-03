@@ -7,7 +7,7 @@ import Navbar from 'react-bootstrap/Navbar';
 
 const Navigation = () => {
     return (
-        <Navbar collapseOnSelect expand="lg" data-bs-theme="dark">
+        <Navbar collapseOnSelect expand="lg" data-bs-theme="dark" fixed="top">
             <Container>
                 <Navbar.Brand href="#home">
                     <img
@@ -16,6 +16,7 @@ const Navigation = () => {
                         className="d-inline-block align-top"
                         alt="React Bootstrap logo"
                     />
+                    George Automotive
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                 <Navbar.Collapse id="responsive-navbar-nav">

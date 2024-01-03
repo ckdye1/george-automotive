@@ -177,9 +177,6 @@
     order: var(--order);
     align-self: var(--align-self);
 }
-.elementor-element.elementor-absolute, .elementor-element.elementor-fixed {
-    z-index: 1;
-}
 .elementor-element:where(.e-con-full, .elementor-widget) {
     flex-direction: var(--flex-direction);
     flex-wrap: var(--flex-wrap);
