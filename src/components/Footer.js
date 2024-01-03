@@ -33,7 +33,7 @@ const Footer = () => {
                         </div>
                         <div className="divider"></div>
                         <div
-                            className="elementor-element elementor-element-5c0eb2ed elementor-nav-menu__align-left elementor-widget elementor-widget-nav-menu">
+                            className="elementor-element elementor-element-5c0eb2ed elementor-widget elementor-widget-nav-menu">
                             <div className="elementor-widget-container">
                                 <Nav defaultActiveKey="/home" className="flex-column">
                                     <Nav.Link href="#home">Home</Nav.Link>
@@ -56,7 +56,7 @@ const Footer = () => {
                         </div>
                         <div className="divider"></div>
                         <div
-                            className="elementor-element elementor-element-76a53625 elementor-nav-menu__align-left elementor-widget elementor-widget-nav-menu">
+                            className="elementor-element elementor-element-76a53625 elementor-widget elementor-widget-nav-menu">
                             <div className="elementor-widget-container">
                                 <Nav defaultActiveKey="/home" className="flex-column">
                                     <Nav.Link href="#home">Instagram</Nav.Link>

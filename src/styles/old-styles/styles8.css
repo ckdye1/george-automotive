@@ -149,26 +149,6 @@ body:not(.rtl) .elementor-14 .elementor-element.elementor-element-73979b34 .elem
     padding-bottom: 15px;
 }
 
-.elementor-14 .elementor-element.elementor-element-5c0eb2ed .elementor-nav-menu .elementor-item {
-    font-family: "Montserrat", Sans-serif;
-    font-size: 14px;
-    font-weight: 700;
-}
-
-.elementor-14 .elementor-element.elementor-element-5c0eb2ed .elementor-nav-menu--main .elementor-item {
-    color: #FFFFFF;
-    fill: #FFFFFF;
-    padding: 10px 0;
-}
-
-.elementor-14 .elementor-element.elementor-element-5c0eb2ed .elementor-nav-menu--main .elementor-item:hover,
-.elementor-14 .elementor-element.elementor-element-5c0eb2ed .elementor-nav-menu--main .elementor-item.elementor-item-active,
-.elementor-14 .elementor-element.elementor-element-5c0eb2ed .elementor-nav-menu--main .elementor-item.highlighted,
-.elementor-14 .elementor-element.elementor-element-5c0eb2ed .elementor-nav-menu--main .elementor-item:focus {
-    color: #F77F00;
-    fill: #F77F00;
-}
-
 .elementor-14 .elementor-element.elementor-element-3b1d8fe1 > .elementor-element-populated {
     padding: 10% 10% 10% 10%;
 }
@@ -187,26 +167,6 @@ body:not(.rtl) .elementor-14 .elementor-element.elementor-element-73979b34 .elem
 .elementor-14 .elementor-element.elementor-element-3adc928d .elementor-divider {
     padding-top: 15px;
     padding-bottom: 15px;
-}
-
-.elementor-14 .elementor-element.elementor-element-76a53625 .elementor-nav-menu .elementor-item {
-    font-family: "Montserrat", Sans-serif;
-    font-size: 14px;
-    font-weight: 700;
-}
-
-.elementor-14 .elementor-element.elementor-element-76a53625 .elementor-nav-menu--main .elementor-item {
-    color: #FFFFFF;
-    fill: #FFFFFF;
-    padding: 10px 0;
-}
-
-.elementor-14 .elementor-element.elementor-element-76a53625 .elementor-nav-menu--main .elementor-item:hover,
-.elementor-14 .elementor-element.elementor-element-76a53625 .elementor-nav-menu--main .elementor-item.elementor-item-active,
-.elementor-14 .elementor-element.elementor-element-76a53625 .elementor-nav-menu--main .elementor-item.highlighted,
-.elementor-14 .elementor-element.elementor-element-76a53625 .elementor-nav-menu--main .elementor-item:focus {
-    color: #F77F00;
-    fill: #F77F00;
 }
 
 .elementor-14 .elementor-element.elementor-element-19514636:not(.elementor-motion-effects-element-type-background) {

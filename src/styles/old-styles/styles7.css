@@ -16,33 +16,8 @@
     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 
-.elementor-11 .elementor-element.elementor-element-791e67f6 .elementor-nav-menu .elementor-item {
-    font-family: "Montserrat", Sans-serif;
-    font-size: 14px;
-    font-weight: 700;
-}
-
-.elementor-11 .elementor-element.elementor-element-791e67f6 .elementor-nav-menu--main .elementor-item {
-    color: #FFFFFF;
-    fill: #FFFFFF;
-    padding-left: 0;
-    padding-right: 0;
-}
-
-.elementor-11 .elementor-element.elementor-element-791e67f6 .elementor-nav-menu--main .elementor-item:hover,
-.elementor-11 .elementor-element.elementor-element-791e67f6 .elementor-nav-menu--main .elementor-item.elementor-item-active,
-.elementor-11 .elementor-element.elementor-element-791e67f6 .elementor-nav-menu--main .elementor-item.highlighted,
-.elementor-11 .elementor-element.elementor-element-791e67f6 .elementor-nav-menu--main .elementor-item:focus {
-    color: #F77F00;
-    fill: #F77F00;
-}
-
 .elementor-11 .elementor-element.elementor-element-791e67f6 {
     --e-nav-menu-horizontal-menu-item-margin: calc(21px / 2);
-}
-
-.elementor-11 .elementor-element.elementor-element-791e67f6 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child) {
-    margin-bottom: 21px;
 }
 
 @media (max-width: 1024px) {
