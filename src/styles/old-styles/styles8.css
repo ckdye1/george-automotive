@@ -153,22 +153,6 @@ body:not(.rtl) .elementor-14 .elementor-element.elementor-element-73979b34 .elem
     padding: 10% 10% 10% 10%;
 }
 
-.elementor-14 .elementor-element.elementor-element-3adc928d {
-    --divider-border-style: parallelogram;
-    --divider-color: #F77F00;
-    --divider-pattern-height: 20px;
-    --divider-pattern-size: 20px;
-}
-
-.elementor-14 .elementor-element.elementor-element-3adc928d .elementor-divider-separator {
-    width: 100px;
-}
-
-.elementor-14 .elementor-element.elementor-element-3adc928d .elementor-divider {
-    padding-top: 15px;
-    padding-bottom: 15px;
-}
-
 .elementor-14 .elementor-element.elementor-element-19514636:not(.elementor-motion-effects-element-type-background) {
     background-color: #000000;
 }
