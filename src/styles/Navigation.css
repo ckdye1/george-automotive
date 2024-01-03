@@ -1,5 +1,14 @@
+.navbar-brand {
+    align-items: center;
+    display: flex;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
 .navbar[data-bs-theme="dark"] {
-    z-index: 1;
+    z-index: 10000;
     background: #000000;
 }
 
