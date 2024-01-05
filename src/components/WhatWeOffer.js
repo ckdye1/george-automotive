@@ -1,6 +1,10 @@
 import '../styles/WhatWeOffer.css'
 import React from "react";
 
+import brakes from '../images/brakes.jpg';
+import engineWork from '../images/engine-work.jpeg';
+import tyres from '../images/tyres.jpeg';
+
 const WhatWeOffer = () => {
     return (
         <section
@@ -81,14 +85,16 @@ const WhatWeOffer = () => {
                                             className="elementor-element elementor-element-46f0257 elementor-position-top elementor-widget elementor-widget-image-box">
                                             <div className="elementor-widget-container">
                                                 <div className="elementor-image-box-wrapper">
-                                                    <figure className="elementor-image-box-img"><img
-                                                        loading="lazy"
-                                                        decoding="async"
-                                                        width="1335" height="2000"
-                                                        src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/service-worker-pouring-engine-oil.jpg"
-                                                        className="size-full wp-image-24"
-                                                        alt=""
-                                                        sizes="(max-width: 1335px) 100vw, 1335px"/>
+                                                    <figure className="elementor-image-box-img">
+                                                        <img
+                                                            loading="lazy"
+                                                            decoding="async"
+                                                            width="1335" height="2000"
+                                                            src={engineWork}
+                                                            className="size-full wp-image-24"
+                                                            alt="Engine Work"
+                                                            sizes="(max-width: 1335px) 100vw, 1335px"
+                                                        />
                                                     </figure>
                                                     <div className="elementor-image-box-content">
                                                         <h4 className="elementor-image-box-title">Engine Repair</h4>
@@ -105,14 +111,17 @@ const WhatWeOffer = () => {
                                             className="elementor-element elementor-element-65555ee4 elementor-position-top elementor-widget elementor-widget-image-box">
                                             <div className="elementor-widget-container">
                                                 <div className="elementor-image-box-wrapper">
-                                                    <figure className="elementor-image-box-img"><img
-                                                        loading="lazy"
-                                                        decoding="async"
-                                                        width="1335" height="2000"
-                                                        src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/car-maintenance-in-garage.jpg"
-                                                        className="size-full wp-image-22"
-                                                        alt=""
-                                                        sizes="(max-width: 1335px) 100vw, 1335px"/>
+                                                    <figure className="elementor-image-box-img">
+                                                        <img
+                                                            loading="lazy"
+                                                            decoding="async"
+                                                            width="1335"
+                                                            height="2000"
+                                                            src={tyres}
+                                                            className="size-full wp-image-22"
+                                                            alt=""
+                                                            sizes="(max-width: 1335px) 100vw, 1335px"
+                                                        />
                                                     </figure>
                                                     <div className="elementor-image-box-content">
                                                         <h4 className="elementor-image-box-title">Tires
@@ -130,14 +139,17 @@ const WhatWeOffer = () => {
                                             className="elementor-element elementor-element-274617ea elementor-position-top elementor-widget elementor-widget-image-box">
                                             <div className="elementor-widget-container">
                                                 <div className="elementor-image-box-wrapper">
-                                                    <figure className="elementor-image-box-img"><img
-                                                        loading="lazy"
-                                                        decoding="async"
-                                                        width="1334" height="2000"
-                                                        src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/mechanic-at-work.jpg"
-                                                        className="size-full wp-image-25"
-                                                        alt=""
-                                                        sizes="(max-width: 1334px) 100vw, 1334px"/>
+                                                    <figure className="elementor-image-box-img">
+                                                        <img
+                                                            loading="lazy"
+                                                            decoding="async"
+                                                            width="1334"
+                                                            height="2000"
+                                                            src={brakes}
+                                                            className="size-full wp-image-25"
+                                                            alt="Brake inspection"
+                                                            sizes="(max-width: 1334px) 100vw, 1334px"
+                                                        />
                                                     </figure>
                                                     <div className="elementor-image-box-content">
                                                         <h4 className="elementor-image-box-title">

@@ -1,6 +1,8 @@
 import '../styles/WhyChooseUs.css';
 import React from "react";
 
+import underBonnet from '../images/under-bonnet.jpg';
+
 const WhyChooseUs = () => {
     return (
         <section
@@ -20,10 +22,17 @@ const WhyChooseUs = () => {
                             className="elementor-element elementor-element-6266aef7 elementor-widget elementor-widget-image"
                             data-id="6266aef7" data-element_type="widget" data-widget_type="image.default">
                             <div className="elementor-widget-container">
-                                <img loading="lazy" decoding="async" width="800" height="534"
-                                     src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/mechanics-working-in-auto-service-1024x684.jpg"
-                                     className="attachment-large size-large wp-image-26" alt=""
-                                     sizes="(max-width: 800px) 100vw, 800px"/></div>
+                                <img
+                                    loading="lazy"
+                                    decoding="async"
+                                    width="800"
+                                    height="534"
+                                    src={underBonnet}
+                                    className="attachment-large size-large wp-image-26"
+                                    alt="Engine bay"
+                                    sizes="(max-width: 800px) 100vw, 800px"
+                                />
+                            </div>
                         </div>
                         <div
                             className="elementor-element elementor-element-632f2b97 elementor-blockquote--skin-boxed elementor-blockquote--align-center elementor-widget__width-initial elementor-absolute elementor-widget-mobile__width-initial elementor-blockquote--button-color-official elementor-widget elementor-widget-blockquote"
