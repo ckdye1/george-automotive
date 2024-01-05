@@ -3,6 +3,7 @@ import React from "react";
 
 import brakes from '../images/brakes.jpg';
 import engineWork from '../images/engine-work.jpeg';
+import ramp from '../images/ramp.jpeg';
 import tyres from '../images/tyres.jpeg';
 
 const WhatWeOffer = () => {
@@ -62,13 +63,16 @@ const WhatWeOffer = () => {
                                             <div className="elementor-widget-container">
                                                 <div className="elementor-image-box-wrapper">
                                                     <figure className="elementor-image-box-img">
-                                                        <img loading="lazy"
-                                                             decoding="async"
-                                                             width="1335" height="2000"
-                                                             src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/checking-motor-in-car-service.jpg"
-                                                             className="size-full wp-image-23"
-                                                             alt=""
-                                                             sizes="(max-width: 1335px) 100vw, 1335px"/>
+                                                        <img
+                                                            loading="lazy"
+                                                            decoding="async"
+                                                            width="1335"
+                                                            height="2000"
+                                                            src={ramp}
+                                                            className="size-full wp-image-23"
+                                                            alt=""
+                                                            sizes="(max-width: 1335px) 100vw, 1335px"
+                                                        />
                                                     </figure>
                                                     <div className="elementor-image-box-content">
                                                         <h4 className="elementor-image-box-title">Diagnostics</h4>
