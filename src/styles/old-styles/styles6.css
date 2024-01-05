@@ -402,11 +402,6 @@
     align-items: center;
 }
 
-.elementor-17 .elementor-element.elementor-element-43f97b2e:not(.elementor-motion-effects-element-type-background) {
-    background-color: #202020;
-    background-image: url("https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/at-the-auto-service.jpg");
-}
-
 .elementor-17 .elementor-element.elementor-element-43f97b2e > .elementor-background-overlay {
     background-color: transparent;
     background-image: linear-gradient(180deg, #202020 5%, #202020BA 100%);
@@ -896,10 +891,6 @@ body.rtl .elementor-17 .elementor-element.elementor-element-36ac326b.elementor-t
     padding-bottom: 15px;
 }
 
-.elementor-17 .elementor-element.elementor-element-1ab7f1c6 .elementor-posts-container .elementor-post__thumbnail {
-    padding-bottom: calc(1.3 * 100%);
-}
-
 .elementor-17 .elementor-element.elementor-element-1ab7f1c6:after {
     content: "1.3";
 }
@@ -932,14 +923,6 @@ body.rtl .elementor-17 .elementor-element.elementor-element-36ac326b.elementor-t
 
 .elementor-17 .elementor-element.elementor-element-1ab7f1c6.elementor-posts--thumbnail-top .elementor-post__thumbnail__link {
     margin-bottom: 20px;
-}
-
-.elementor-17 .elementor-element.elementor-element-1ab7f1c6 .elementor-post__thumbnail img {
-    filter: brightness(100%) contrast(100%) saturate(25%) blur(0px) hue-rotate(0deg);
-}
-
-.elementor-17 .elementor-element.elementor-element-1ab7f1c6 .elementor-post:hover .elementor-post__thumbnail img {
-    filter: brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg);
 }
 
 .elementor-17 .elementor-element.elementor-element-1ab7f1c6 .elementor-post__title, .elementor-17 .elementor-element.elementor-element-1ab7f1c6 .elementor-post__title a {
@@ -1027,7 +1010,7 @@ body.rtl .elementor-17 .elementor-element.elementor-element-36ac326b.elementor-t
 }
 
 .elementor-17 .elementor-element.elementor-element-49595d41 > .elementor-background-overlay {
-    background-image: url("https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/pretty-worker-holding-laptop-posing-in-autoservice.jpg");
+    background-image: url("../../images/tools.jpeg");
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1228,10 +1211,6 @@ body.rtl .elementor-17 .elementor-element.elementor-element-36ac326b.elementor-t
 
     .elementor-17 .elementor-element.elementor-element-36ac326b .elementor-testimonial__text {
         font-size: 16px;
-    }
-
-    .elementor-17 .elementor-element.elementor-element-1ab7f1c6 .elementor-posts-container .elementor-post__thumbnail {
-        padding-bottom: calc(1.5 * 100%);
     }
 
     .elementor-17 .elementor-element.elementor-element-1ab7f1c6:after {

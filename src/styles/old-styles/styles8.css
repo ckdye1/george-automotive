@@ -28,11 +28,11 @@
 }
 
 .elementor-14 .elementor-element.elementor-element-2f2d3df2 > .elementor-background-overlay {
-    background-image: url("https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/at-the-auto-service.jpg");
+    background-image: url("../../images/engine-work-2.jpeg");
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.1;
+    opacity: 0.2;
     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 
