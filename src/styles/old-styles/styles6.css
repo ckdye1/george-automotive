@@ -84,11 +84,6 @@
     filter: brightness(38%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);
 }
 
-.elementor-17 .elementor-element.elementor-element-78de8a8e {
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
-    padding: 5% 0 5% 0;
-}
-
 .elementor-17 .elementor-element.elementor-element-78de8a8e > .elementor-shape-top .elementor-shape-fill {
     fill: #DAA520;
 }
@@ -735,9 +730,7 @@ body.rtl .elementor-17 .elementor-element.elementor-element-632f2b97 {
 .elementor-17 .elementor-element.elementor-element-28069df0 > .elementor-element-populated {
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     margin: 0 0 0 0;
-    --e-column-margin-right: 0%;
-    --e-column-margin-left: 0%;
-    padding: 10% 10% 10% 10%;
+    padding: 5% 10%
 }
 
 .elementor-17 .elementor-element.elementor-element-28069df0 > .elementor-element-populated > .elementor-background-overlay {

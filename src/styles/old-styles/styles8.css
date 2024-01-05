@@ -2,49 +2,6 @@
     height: 400px;
 }
 
-.elementor-14 .elementor-element.elementor-element-413bd935.elementor-column > .elementor-widget-wrap {
-    justify-content: flex-start;
-}
-
-.elementor-14 .elementor-element.elementor-element-413bd935:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap {
-    background-color: #333533;
-}
-
-.elementor-14 .elementor-element.elementor-element-413bd935 > .elementor-element-populated {
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
-    padding: 8% 8% 8% 8%;
-}
-
-.elementor-14 .elementor-element.elementor-element-413bd935 > .elementor-element-populated > .elementor-background-overlay {
-    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
-}
-
-.elementor-14 .elementor-element.elementor-element-73979b34 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
-    padding-bottom: calc(10px / 2);
-}
-
-.elementor-14 .elementor-element.elementor-element-73979b34 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
-    margin-top: calc(10px / 2);
-}
-
-.elementor-14 .elementor-element.elementor-element-73979b34 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
-    margin-right: calc(10px / 2);
-    margin-left: calc(10px / 2);
-}
-
-.elementor-14 .elementor-element.elementor-element-73979b34 .elementor-icon-list-items.elementor-inline-items {
-    margin-right: calc(-10px / 2);
-    margin-left: calc(-10px / 2);
-}
-
-body.rtl .elementor-14 .elementor-element.elementor-element-73979b34 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
-    left: calc(-10px / 2);
-}
-
-body:not(.rtl) .elementor-14 .elementor-element.elementor-element-73979b34 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
-    right: calc(-10px / 2);
-}
-
 .elementor-14 .elementor-element.elementor-element-73979b34 .elementor-icon-list-icon i {
     transition: color 0.3s;
 }
@@ -62,12 +19,8 @@ body:not(.rtl) .elementor-14 .elementor-element.elementor-element-73979b34 .elem
     padding-right: 16px;
 }
 
-.elementor-14 .elementor-element.elementor-element-73979b34 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-14 .elementor-element.elementor-element-73979b34 .elementor-icon-list-item > a {
+.elementor-14 .elementor-element.elementor-element-73979b34 .elementor-icon-list-item > a {
     font-size: 21px;
-}
-
-.elementor-14 .elementor-element.elementor-element-73979b34 .elementor-icon-list-text {
-    transition: color 0.3s;
 }
 
 .elementor-14 .elementor-element.elementor-element-2f2d3df2:not(.elementor-motion-effects-element-type-background) {

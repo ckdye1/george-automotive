@@ -1,62 +1,52 @@
+import '../styles/Sponsors.css';
 import React from "react";
 
-const Sponsors = () => {
+import facebook from '../images/facebook-logo.png';
+import instagram from '../images/instagram-logo.png';
+import google from '../images/google-reviews-logo.png';
+import Nav from "react-bootstrap/Nav";
 
-    return (
-        <section
-            className="elementor-section elementor-element elementor-element-4a57d911 elementor-section-boxed"
-            data-id="4a57d911" data-element_type="section"
-            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-            <div className="elementor-container elementor-column-gap-default">
-                <div
-                    className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-27d6e4f0"
-                    data-id="27d6e4f0" data-element_type="column">
-                    <div className="elementor-widget-wrap elementor-element-populated">
-                        <div
-                            className="elementor-element elementor-element-3a425bdf elementor-widget__width-initial elementor-widget elementor-widget-image"
-                            data-id="3a425bdf" data-element_type="widget" data-widget_type="image.default">
-                            <div className="elementor-widget-container">
-                                <img loading="lazy" decoding="async" width="178" height="100"
-                                     src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/logo-11.png"
-                                     className="attachment-large size-large wp-image-31" alt=""/></div>
-                        </div>
-                        <div
-                            className="elementor-element elementor-element-18f20dac elementor-widget__width-initial elementor-widget elementor-widget-image"
-                            data-id="18f20dac" data-element_type="widget" data-widget_type="image.default">
-                            <div className="elementor-widget-container">
-                                <img loading="lazy" decoding="async" width="178" height="100"
-                                     src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/logo-8.png"
-                                     className="attachment-large size-large wp-image-32" alt=""/></div>
-                        </div>
-                        <div
-                            className="elementor-element elementor-element-55864ca2 elementor-widget__width-initial elementor-widget elementor-widget-image"
-                            data-id="55864ca2" data-element_type="widget" data-widget_type="image.default">
-                            <div className="elementor-widget-container">
-                                <img loading="lazy" decoding="async" width="178" height="100"
-                                     src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/logo-7.png"
-                                     className="attachment-large size-large wp-image-33" alt=""/></div>
-                        </div>
-                        <div
-                            className="elementor-element elementor-element-27a5d56c elementor-widget__width-initial elementor-widget elementor-widget-image"
-                            data-id="27a5d56c" data-element_type="widget" data-widget_type="image.default">
-                            <div className="elementor-widget-container">
-                                <img loading="lazy" decoding="async" width="178" height="100"
-                                     src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/logo-4.png"
-                                     className="attachment-large size-large wp-image-34" alt=""/></div>
-                        </div>
-                        <div
-                            className="elementor-element elementor-element-36d2139b elementor-widget__width-initial elementor-widget elementor-widget-image"
-                            data-id="36d2139b" data-element_type="widget" data-widget_type="image.default">
-                            <div className="elementor-widget-container">
-                                <img loading="lazy" decoding="async" width="178" height="100"
-                                     src="https://show.moxcreative.com/carbon/wp-content/uploads/sites/61/2023/03/logo-1.png"
-                                     className="attachment-large size-large wp-image-35" alt=""/></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    );
-}
+const Sponsors = () => (
+    <section className="sponsors">
+        <Nav.Link
+            href="https://m.facebook.com/people/George-Automotive/61553637115420/"
+            target="_blank"
+        >
+            <img
+                alt="Facebook"
+                className="facebook-logo"
+                decoding="async"
+                loading="lazy"
+                src={facebook}
+            />
+        </Nav.Link>
+
+        <Nav.Link
+            href="https://www.instagram.com/georgeautomotive/"
+            target="_blank"
+        >
+            <img
+                alt="instagram"
+                className="instagram-logo"
+                decoding="async"
+                loading="lazy"
+                src={instagram}
+            />
+        </Nav.Link>
+
+        <Nav.Link
+            href="https://www.google.com/maps/place/George+Automotive/@50.9383327,-0.1082956,17z/data=!4m14!1m7!3m6!1s0x48758d865a1c1c95:0xeac87e14c835d771!2sGeorge+Automotive!8m2!3d50.9382076!4d-0.1053452!16s%2Fg%2F11lchm6c4d!3m5!1s0x48758d865a1c1c95:0xeac87e14c835d771!8m2!3d50.9382076!4d-0.1053452!16s%2Fg%2F11lchm6c4d?entry=ttu"
+            target="_blank"
+        >
+            <img
+                alt="Google Reviews"
+                className="google-logo"
+                decoding="async"
+                loading="lazy"
+                src={google}
+            />
+        </Nav.Link>
+    </section>
+);
 
 export default Sponsors;

@@ -9,7 +9,7 @@ const CopyRight = () => {
             data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div className="elementor-container elementor-column-gap-default">
                 <div
-                    className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a085b9a"
+                    className="elementor-column elementor-col-100 elementor-element elementor-element-2a085b9a"
                     data-id="2a085b9a" data-element_type="column">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <div

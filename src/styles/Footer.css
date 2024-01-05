@@ -6,6 +6,6 @@ a.nav-link {
     padding-left: 0;
 }
 
-a.nav-link:hover {
+a.nav-link:hover, a.nav-link:focus {
     color: #F77F00;
 }

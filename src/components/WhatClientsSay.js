@@ -11,7 +11,7 @@ const WhatClientsSay = () => {
                 </svg>
             </div>
             <div className="elementor-container elementor-column-gap-default">
-                <div className="elementor-column elementor-top-column elementor-element elementor-element-28069df0">
+                <div className="elementor-column elementor-element elementor-element-28069df0">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <div className="elementor-element elementor-element-1982473e elementor-widget">
                             <div className="elementor-widget-container">

@@ -9,7 +9,7 @@ import './styles/old-styles/styles10.css';
 import './styles/old-styles/styles11.css';
 import './styles/old-styles/styles12.css';
 import './styles/old-styles/styles13.css';
-import './styles/old-styles/custom-styles.css';
+import './styles/custom-styles.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
