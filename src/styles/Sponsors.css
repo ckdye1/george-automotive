@@ -1,0 +1,20 @@
+.sponsors {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  max-width: 1140px;
+  padding: 10px;
+}
+
+.facebook-logo {
+  max-height: 30px;
+}
+
+.instagram-logo {
+  max-height: 60px;
+}
+
+.google-logo {
+  max-height: 65px;
+}

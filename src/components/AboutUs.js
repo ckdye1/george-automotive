@@ -18,7 +18,7 @@ const AboutUs = () => {
             </div>
             <div className="elementor-container elementor-column-gap-default">
                 <div
-                    className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3dc9e8b4">
+                    className="elementor-column elementor-col-33 elementor-element elementor-element-3dc9e8b4">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <div
                             className="elementor-element elementor-element-1cd00c79 elementor-widget elementor-widget-image">
@@ -31,7 +31,7 @@ const AboutUs = () => {
                     </div>
                 </div>
                 <div
-                    className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2780d8a">
+                    className="elementor-column elementor-col-33 elementor-element elementor-element-2780d8a">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <div
                             className="elementor-element elementor-element-28c8f7d7 elementor-widget elementor-widget-image">
@@ -44,7 +44,7 @@ const AboutUs = () => {
                     </div>
                 </div>
                 <div
-                    className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-417155e7">
+                    className="elementor-column elementor-col-33 elementor-element elementor-element-417155e7">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <div
                             className="elementor-element elementor-element-b0743b9 elementor-widget"

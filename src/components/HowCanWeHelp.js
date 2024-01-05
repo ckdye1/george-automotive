@@ -10,7 +10,7 @@ const HowCanWeHelp = () => {
             <div className="elementor-background-overlay"></div>
             <div className="elementor-container elementor-column-gap-default">
                 <div
-                    className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-17a50f1d"
+                    className="elementor-column elementor-col-100 elementor-element elementor-element-17a50f1d"
                     data-id="17a50f1d" data-element_type="column">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <div

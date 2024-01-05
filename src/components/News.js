@@ -8,7 +8,7 @@ const News = () => {
             data-id="16dade0" data-element_type="section">
             <div className="elementor-container elementor-column-gap-default">
                 <div
-                    className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2d94de47"
+                    className="elementor-column elementor-col-100 elementor-element elementor-element-2d94de47"
                     data-id="2d94de47" data-element_type="column">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <div

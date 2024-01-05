@@ -4693,11 +4693,6 @@ a:hover > .a:hover\:met_scaley--200:hover {
     transition: all .4s ease
 }
 
-.ekit-wid-con .elementor-icon-list-text {
-    -webkit-transition: all .4s ease;
-    transition: all .4s ease
-}
-
 .ekit-wid-con .ekit_page_list_content {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -5642,11 +5637,6 @@ a:hover > .a:hover\:met_scaley--200:hover {
     display: inline-block;
     -webkit-transition: all .4s ease;
     transition: all .4s ease
-}
-
-.ekit-wid-con .elementor-icon-list-item .elementor-icon-list-text {
-    display: block;
-    margin-bottom: 0
 }
 
 .ekit-wid-con .nf-error.field-wrap .nf-field-element::after, .ekit-wid-con .nf-pass.field-wrap .nf-field-element::after {

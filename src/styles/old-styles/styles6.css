@@ -730,9 +730,7 @@ body.rtl .elementor-17 .elementor-element.elementor-element-632f2b97 {
 .elementor-17 .elementor-element.elementor-element-28069df0 > .elementor-element-populated {
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     margin: 0 0 0 0;
-    --e-column-margin-right: 0%;
-    --e-column-margin-left: 0%;
-    padding: 10% 10% 10% 10%;
+    padding: 5% 10%
 }
 
 .elementor-17 .elementor-element.elementor-element-28069df0 > .elementor-element-populated > .elementor-background-overlay {

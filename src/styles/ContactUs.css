@@ -5,3 +5,33 @@
 h1, span {
     color: #FFFFFF;
 }
+
+.divider {
+    margin-bottom: 40px;
+}
+
+.contact-details-column {
+    padding: 40px;
+}
+
+.contact-details-list {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.contact-details-list li {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.contact-details {
+    color: #FFFFFF;
+    font-size: 21px;
+}
+
+.contact-details span {
+    margin-right: 20px;
+}

@@ -13,7 +13,7 @@ const WhyChooseUs = () => {
             </div>
             <div className="elementor-container elementor-column-gap-default">
                 <div
-                    className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-15c1ac59"
+                    className="elementor-column elementor-col-50 elementor-element elementor-element-15c1ac59"
                     data-id="15c1ac59" data-element_type="column">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <div
@@ -43,7 +43,7 @@ const WhyChooseUs = () => {
                     </div>
                 </div>
                 <div
-                    className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-52983086"
+                    className="elementor-column elementor-col-50 elementor-element elementor-element-52983086"
                     data-id="52983086" data-element_type="column">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <div

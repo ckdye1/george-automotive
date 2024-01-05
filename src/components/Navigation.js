@@ -1,7 +1,6 @@
 import '../styles/Navigation.css';
-import {Button} from "react-bootstrap";
 import Container from 'react-bootstrap/Container';
-import logo from '../images/icon.png';
+import logo from '../images/logo-small.png';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 

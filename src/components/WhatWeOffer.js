@@ -13,7 +13,7 @@ const WhatWeOffer = () => {
             </div>
             <div className="elementor-container elementor-column-gap-default">
                 <div
-                    className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-26c8bfb1">
+                    className="elementor-column elementor-col-100 elementor-element elementor-element-26c8bfb1">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <section
                             className="elementor-section elementor-inner-section elementor-element elementor-element-74572657 elementor-section-content-middle elementor-section-boxed">

@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="elementor-background-overlay"></div>
             <div className="elementor-container elementor-column-gap-default">
                 <div
-                    className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-36712176">
+                    className="elementor-column elementor-col-33 elementor-element elementor-element-36712176">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <img src={logo}
                              className="attachment-large size-large wp-image-10" alt="George Automotive" loading="lazy"
@@ -24,7 +24,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div
-                    className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-418892f0">
+                    className="elementor-column elementor-col-33 elementor-element elementor-element-418892f0">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <div className="elementor-element elementor-element-45c474ce elementor-widget">
                             <div className="elementor-widget-container">
@@ -47,7 +47,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div
-                    className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3b1d8fe1">
+                    className="elementor-column elementor-col-33 elementor-element elementor-element-3b1d8fe1">
                     <div className="elementor-widget-wrap elementor-element-populated">
                         <div className="elementor-element elementor-element-133be5c elementor-widget">
                             <div className="elementor-widget-container">
