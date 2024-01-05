@@ -59,9 +59,26 @@ const Footer = () => {
                             className="elementor-element elementor-element-76a53625 elementor-widget elementor-widget-nav-menu">
                             <div className="elementor-widget-container">
                                 <Nav defaultActiveKey="/home" className="flex-column">
-                                    <Nav.Link href="#home">Instagram</Nav.Link>
-                                    <Nav.Link href="#about-us">Facebook</Nav.Link>
-                                    <Nav.Link href="#services">Google Business</Nav.Link>
+                                    <Nav.Link
+                                        href="https://www.instagram.com/georgeautomotive/"
+                                        target="_blank"
+                                    >
+                                        Instagram
+                                    </Nav.Link>
+
+                                    <Nav.Link
+                                        href="https://m.facebook.com/people/George-Automotive/61553637115420/"
+                                        target="_blank"
+                                    >
+                                        Facebook
+                                    </Nav.Link>
+
+                                    <Nav.Link
+                                        href="https://www.google.com/maps/place/George+Automotive/@50.9383327,-0.1082956,17z/data=!4m14!1m7!3m6!1s0x48758d865a1c1c95:0xeac87e14c835d771!2sGeorge+Automotive!8m2!3d50.9382076!4d-0.1053452!16s%2Fg%2F11lchm6c4d!3m5!1s0x48758d865a1c1c95:0xeac87e14c835d771!8m2!3d50.9382076!4d-0.1053452!16s%2Fg%2F11lchm6c4d?entry=ttu"
+                                        target="_blank"
+                                    >
+                                        Google Reviews
+                                    </Nav.Link>
                                 </Nav>
                             </div>
                         </div>

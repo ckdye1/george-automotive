@@ -360,9 +360,6 @@
 .elementor-section.elementor-section-items-middle > .elementor-container {
     align-items: center;
 }
-.elementor-section.elementor-section-items-bottom > .elementor-container {
-    align-items: flex-end;
-}
 @media (min-width: 768px) {
     .elementor-section.elementor-section-height-full {
         height: 100vh;

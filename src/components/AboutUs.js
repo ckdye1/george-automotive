@@ -56,32 +56,17 @@ const AboutUs = () => {
                         <div className="divider"/>
                     </div>
                     <div
-                        className="elementor-element elementor-element-1df73afe elementor-widget elementor-widget-text-editor">
-                        <div className="elementor-widget-container">
-                            <p>Aliquet potenti facilisis integer imperdiet sed a risus nam hac. Varius a
-                                nisi
-                                ante
-                                fermentum aptent class scelerisque.</p>
-                            <p>Finibus posuere amet litora faucibus sodales porta tempus hendrerit blandit.
-                                Consectetur
-                                turpis faucibus netus quis dignissim litora est. Nisi erat lobortis amet
-                                magna
-                                ligula
-                                malesuada posuere. Donec commodo magnis rutrum curabitur facilisis at.</p>
-                        </div>
-                    </div>
-                    <div
-                        className="elementor-element elementor-element-4dade9a8 elementor-widget__width-auto elementor-mobile-align-center elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button">
-                        <div className="elementor-widget-container">
-                            <div className="elementor-button-wrapper">
-                                <a className="elementor-button elementor-size-md"
-                                   href="#">
-					                	<span className="elementor-button-content-wrapper">
-						                    <span className="elementor-button-text">Discover More</span>
-		                                </span>
-                                </a>
-                            </div>
-                        </div>
+                        className="elementor-element-populated">
+                        <p>Aliquet potenti facilisis integer imperdiet sed a risus nam hac. Varius a
+                            nisi
+                            ante
+                            fermentum aptent class scelerisque.</p>
+                        <p>Finibus posuere amet litora faucibus sodales porta tempus hendrerit blandit.
+                            Consectetur
+                            turpis faucibus netus quis dignissim litora est. Nisi erat lobortis amet
+                            magna
+                            ligula
+                            malesuada posuere. Donec commodo magnis rutrum curabitur facilisis at.</p>
                     </div>
                 </div>
             </div>

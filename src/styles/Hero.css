@@ -1,0 +1,23 @@
+#home {
+    margin-top: 66px;
+
+}
+
+@media (min-width: 1024px) {
+    #home {
+        margin-top: 66px;
+        min-height: 900px;
+    }
+}
+
+.heroImage {
+    position: relative;
+    padding: 60px 0 90px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.heroImage img {
+    width: 100%;
+    max-width: 1000px;
+}
