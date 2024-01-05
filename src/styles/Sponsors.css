@@ -5,6 +5,11 @@
   margin: 0 auto;
   max-width: 1140px;
   padding: 10px;
+  flex-direction: column;
+}
+
+.sponsors img {
+  margin: 20px
 }
 
 .facebook-logo {
@@ -17,4 +22,14 @@
 
 .google-logo {
   max-height: 65px;
+}
+
+@media (min-width: 768px) {
+  .sponsors {
+    flex-direction: row;
+  }
+
+  .sponsors img {
+    margin: 0;
+  }
 }
