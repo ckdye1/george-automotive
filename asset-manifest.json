@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10909414.css",
+    "main.js": "/static/js/main.3460632c.js",
+    "static/js/787.53a19acc.chunk.js": "/static/js/787.53a19acc.chunk.js",
+    "static/media/engine-block.jpeg": "/static/media/engine-block.d6bfe7706d99cb631315.jpeg",
+    "static/media/diagnostics.jpg": "/static/media/diagnostics.b8b3e8a6dc35a43f9074.jpg",
+    "static/media/ramp.jpeg": "/static/media/ramp.5916df66bc300681389b.jpeg",
+    "static/media/engine-work.jpeg": "/static/media/engine-work.7c6cdb5c48887e8426e3.jpeg",
+    "static/media/turbo.jpg": "/static/media/turbo.04459021ef64e39d5dd2.jpg",
+    "static/media/under-bonnet.jpg": "/static/media/under-bonnet.17e67a2d826926b61a9e.jpg",
+    "static/media/gearbox.jpg": "/static/media/gearbox.a999ecfec81e4810f776.jpg",
+    "static/media/tyres.jpeg": "/static/media/tyres.7580367b525eb9c68ced.jpeg",
+    "static/media/engine-work-2.jpeg": "/static/media/engine-work-2.e28cfa237f074581b947.jpeg",
+    "static/media/brakes.jpg": "/static/media/brakes.03297d1840714dc8631c.jpg",
+    "static/media/tools.jpeg": "/static/media/tools.103b9ab7b434e3e96119.jpeg",
+    "static/media/instagram-logo.png": "/static/media/instagram-logo.64de53bb478c8c280429.png",
+    "static/media/logo.png": "/static/media/logo.890c24d6b46d40d23029.png",
+    "static/media/logo-large.png": "/static/media/logo-large.9d94eb8f041e9b044b9d.png",
+    "static/media/logo-small.png": "/static/media/logo-small.b44da4e898f276f985bf.png",
+    "static/media/facebook-logo.png": "/static/media/facebook-logo.a37ed23d68db93433c14.png",
+    "static/media/google-reviews-logo.png": "/static/media/google-reviews-logo.e1cf70f337c5f9891148.png",
+    "index.html": "/index.html",
+    "main.10909414.css.map": "/static/css/main.10909414.css.map",
+    "main.3460632c.js.map": "/static/js/main.3460632c.js.map",
+    "787.53a19acc.chunk.js.map": "/static/js/787.53a19acc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10909414.css",
+    "static/js/main.3460632c.js"
+  ]
+}
