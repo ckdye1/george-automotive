@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7cd06049.css",
+    "main.css": "/static/css/main.3a643cb5.css",
     "main.js": "/static/js/main.c8c1c2d6.js",
     "static/js/453.7622615c.chunk.js": "/static/js/453.7622615c.chunk.js",
     "static/media/engine-work-2.jpeg": "/static/media/engine-work-2.5bef14a3dbaeba8e6ffa.jpeg",
@@ -17,12 +17,12 @@
     "static/media/gearbox.jpg": "/static/media/gearbox.a36e6f29efa2485eb45f.jpg",
     "static/media/brakes.jpg": "/static/media/brakes.6296cb1facb2466bdd42.jpg",
     "index.html": "/index.html",
-    "main.7cd06049.css.map": "/static/css/main.7cd06049.css.map",
+    "main.3a643cb5.css.map": "/static/css/main.3a643cb5.css.map",
     "main.c8c1c2d6.js.map": "/static/js/main.c8c1c2d6.js.map",
     "453.7622615c.chunk.js.map": "/static/js/453.7622615c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cd06049.css",
+    "static/css/main.3a643cb5.css",
     "static/js/main.c8c1c2d6.js"
   ]
 }
