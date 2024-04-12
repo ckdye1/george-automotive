@@ -1,15 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.19ccfc3b.css",
-    "main.js": "/static/js/main.1f623962.js",
-    "static/js/787.9a03e9c1.chunk.js": "/static/js/787.9a03e9c1.chunk.js",
+    "main.css": "/static/css/main.2e6ecd13.css",
+    "main.js": "/static/js/main.34bfc161.js",
+    "static/js/453.7622615c.chunk.js": "/static/js/453.7622615c.chunk.js",
+    "static/media/engine-block.jpeg": "/static/media/engine-block.457d1caec1b93671079e.jpeg",
+    "static/media/diagnostics.jpg": "/static/media/diagnostics.fd1d0c69e1cacc1a9118.jpg",
+    "static/media/ramp.jpeg": "/static/media/ramp.1429c858d51dffcae365.jpeg",
+    "static/media/engine-work.jpeg": "/static/media/engine-work.3e50b5ac915c70b218e3.jpeg",
+    "static/media/under-bonnet.jpg": "/static/media/under-bonnet.f7ba353b64219b43f418.jpg",
+    "static/media/gearbox.jpg": "/static/media/gearbox.4c685c51fe3af01ca137.jpg",
+    "static/media/turbo.jpg": "/static/media/turbo.0963fc53d7f5cfe5d692.jpg",
+    "static/media/engine-work-2.jpeg": "/static/media/engine-work-2.eea66d374eb7cd9426ac.jpeg",
+    "static/media/tyres.jpeg": "/static/media/tyres.778b21edab4d1da11288.jpeg",
+    "static/media/brakes.jpg": "/static/media/brakes.79e40f17e3ea20650abd.jpg",
+    "static/media/tools.jpeg": "/static/media/tools.8cc9adee3bf724038ecb.jpeg",
+    "static/media/mechanic.jpeg": "/static/media/mechanic.ff98ff02eb316ef025d5.jpeg",
+    "static/media/instagram-logo.png": "/static/media/instagram-logo.34b0593b30a878c5d033.png",
+    "static/media/logo.png": "/static/media/logo.f9b3419d0a1e4482c2bc.png",
+    "static/media/logo-small.png": "/static/media/logo-small.24777941fc7e02e6f87e.png",
+    "static/media/logo-large.png": "/static/media/logo-large.81eaf731a9e21c89a408.png",
+    "static/media/google-reviews-logo.png": "/static/media/google-reviews-logo.16d31456b9d62791f523.png",
+    "static/media/facebook-logo.png": "/static/media/facebook-logo.e97f7fc8d74600fabb9c.png",
     "index.html": "/index.html",
-    "main.19ccfc3b.css.map": "/static/css/main.19ccfc3b.css.map",
-    "main.1f623962.js.map": "/static/js/main.1f623962.js.map",
-    "787.9a03e9c1.chunk.js.map": "/static/js/787.9a03e9c1.chunk.js.map"
+    "main.2e6ecd13.css.map": "/static/css/main.2e6ecd13.css.map",
+    "main.34bfc161.js.map": "/static/js/main.34bfc161.js.map",
+    "453.7622615c.chunk.js.map": "/static/js/453.7622615c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19ccfc3b.css",
-    "static/js/main.1f623962.js"
+    "static/css/main.2e6ecd13.css",
+    "static/js/main.34bfc161.js"
   ]
 }
